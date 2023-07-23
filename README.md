@@ -1,6 +1,5 @@
 # PlaneSimulator-yawVR
-Projekt zespołowy umożliwiający użytkownikowi wybór 2 trybów gry:
-- Arcade, gdzie gracz ma za zadanie zestrzelić balony zdobywając punkty. Z każdym zestrzelonym balonem pojawia się następny balon wraz z trudniejszymi przeciwnikami.
+Projekt zespołowy.
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
